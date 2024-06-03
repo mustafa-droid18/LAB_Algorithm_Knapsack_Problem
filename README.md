@@ -29,7 +29,7 @@ This collaborative approach allows the LAB Algorithm to efficiently explore and 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Jupyter Notebook
 - Additional Python libraries: `numpy`, `pandas`, `statistics` (installable via pip)
 
