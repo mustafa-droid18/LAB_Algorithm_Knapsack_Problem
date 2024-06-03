@@ -53,7 +53,7 @@ The notebook `Single_Knapsack_Problem.ipynb` contains:
 - Output of the optimal solution and various statistics.
 
 ## Multiple Knapsack Problem
-The notebook `Final.ipynb` contains:
+The notebook `Multiple_Knapsack_Problem.ipynb` contains:
 
 - Initialization of multiple knapsacks with their respective capacities, weights, and values of items.
 - Implementation of the LAB Algorithm to maximize the total value across all knapsacks without exceeding their capacities.
@@ -61,9 +61,6 @@ The notebook `Final.ipynb` contains:
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Inspired by various metaheuristic algorithms and the need to solve optimization problems efficiently.
